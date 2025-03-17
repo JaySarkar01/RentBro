@@ -26,7 +26,7 @@ export default function HowWorks() {
               <p className="text-2xl text-gray-600 mt-2">
               &quot;Our powerful search tool allows you to filter listings by
                 location, price range, and amenities, ensuring you find a space
-                that fits your needs perfectly. Whether you're looking for a
+                that fits your needs perfectly. Whether you&apos;re looking for a
                 budget-friendly room or a place with premium features, our
                 platform offers a seamless and personalized experience.&quot;
               </p>
@@ -70,11 +70,11 @@ export default function HowWorks() {
               </span>
               <p className="text-2xl text-gray-600 mt-2">
               &quot;Move in on your chosen date and experience the convenience of
-                flexible rental terms tailored to your needs. Whether you're
+                flexible rental terms tailored to your needs. Whether you&apos;re
                 looking for a short-term stay or a long-term lease, RentBro
                 offers adaptable options that fit your lifestyle. Enjoy a
                 hassle-free move-in process with verified listings and seamless
-                support. &quot;
+                support.&quot;
               </p>
             </div>
           </div>

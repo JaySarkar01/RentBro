@@ -19,7 +19,7 @@ export default function RentersWords() {
             className="rounded-full mb-4"
           />
           <p className="text-gray-700 text-lg italic">
-          &quot;RentBro made finding my perfect rental so easy! The platform's search filters helped me quickly narrow down my options based on location, budget, and amenities. I loved that all the listings were verified, giving me peace of mind. The secure payment system was simple to use, and their customer support team was super responsive when I had questions.&quot;
+          &quot;RentBro made finding my perfect rental so easy! The platform&apos;s search filters helped me quickly narrow down my options based on location, budget, and amenities. I loved that all the listings were verified, giving me peace of mind. The secure payment system was simple to use, and their customer support team was super responsive when I had questions.&quot;
           </p>
         </div>
 
