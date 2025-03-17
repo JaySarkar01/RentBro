@@ -24,11 +24,11 @@ export default function HowWorks() {
                 Search through thousands of verified rooms
               </span>
               <p className="text-2xl text-gray-600 mt-2">
-                Our powerful search tool allows you to filter listings by
+              &quot;Our powerful search tool allows you to filter listings by
                 location, price range, and amenities, ensuring you find a space
                 that fits your needs perfectly. Whether you're looking for a
                 budget-friendly room or a place with premium features, our
-                platform offers a seamless and personalized experience.
+                platform offers a seamless and personalized experience.&quot;
               </p>
             </div>
           </div>
@@ -40,11 +40,11 @@ export default function HowWorks() {
                 Choose your preferred room and complete the booking
               </span>
               <p className=" text-2xl text-gray-600 mt-2">
-                Choose your ideal room from a variety of verified listings,
+              &quot;Choose your ideal room from a variety of verified listings,
                 tailored to your preferences. With just a few clicks, securely
                 complete the booking process using trusted payment methods,
                 ensuring your rental is confirmed with ease. Enjoy peace of mind
-                as you finalize everything from home.
+                as you finalize everything from home.&quot;
               </p>
             </div>
 
@@ -69,12 +69,12 @@ export default function HowWorks() {
                 Move in on your selected date
               </span>
               <p className="text-2xl text-gray-600 mt-2">
-                Move in on your chosen date and experience the convenience of
+              &quot;Move in on your chosen date and experience the convenience of
                 flexible rental terms tailored to your needs. Whether you're
                 looking for a short-term stay or a long-term lease, RentBro
                 offers adaptable options that fit your lifestyle. Enjoy a
                 hassle-free move-in process with verified listings and seamless
-                support.
+                support. &quot;
               </p>
             </div>
           </div>

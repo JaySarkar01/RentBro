@@ -12,9 +12,9 @@ export default function Index() {
               Find Your Perfect Room, Anytime, Anywhere.
             </h1>
             <p className="mt-2 text-lg text-gray-300">
-              "Explore verified listings, secure payments, and flexible lease
-              terms at your fingertips."
-            </p>
+            &quot;Explore verified listings, secure payments, and flexible lease
+            terms at your fingertips.&quot;
+          </p>
           </div>
 
           {/* Search Section */}
